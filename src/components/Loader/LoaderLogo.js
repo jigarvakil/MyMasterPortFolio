@@ -1,11 +1,13 @@
 import React from "react";
 import "./LoaderLogo.css";
+import logoGif from "../Loader/loader_gif.gif"
 
 class LogoLoader extends React.Component {
   render() {
-    const theme = this.props.theme;
     return (
-      <svg
+      <>  
+      <img src={logoGif} alt="loader  " />
+      {/* <svg
         className="raw_logo"
         width="50%"
         height="40%"
@@ -332,7 +334,8 @@ class LogoLoader extends React.Component {
             }}
           />
         </defs>
-      </svg>
+      </svg> */}
+      </>
     );
   }
 }

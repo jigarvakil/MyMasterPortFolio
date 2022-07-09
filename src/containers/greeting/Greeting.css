@@ -32,9 +32,11 @@
 
 .greeting-text {
   margin-top: 80px;
-  font-size: 70px;
+  font-size: 100px;
   line-height: 1.1;
-  font-family: "Google Sans Bold";
+  font-family: 'Splash', cursive;
+  font-weight: 400;
+
 }
 
 .greeting-nickname {
