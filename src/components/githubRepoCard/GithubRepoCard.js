@@ -35,12 +35,6 @@ export default function GithubRepoCard({ repo, theme }) {
             {repo.description}
           </p>
           <div className="repo-details">
-            <p
-              className="repo-creation-date subTitle"
-              style={{ color: theme.secondaryText }}
-            >
-              Created on {repo.createdAt.split("T")[0]}
-            </p>
             <ProjectLanguages
               className="repo-languages"
               logos={repo.languages}

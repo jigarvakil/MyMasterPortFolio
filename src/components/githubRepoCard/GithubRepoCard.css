@@ -3,7 +3,8 @@
   box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
   padding: 2rem;
   cursor: pointer;
-  flex: 1 1 25%;
+  flex: 0 1 32%;
+  margin: auto;
 }
 .repo-card-div:hover {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
@@ -78,6 +79,9 @@
 .repo-details {
   display: flex;
   flex-direction: row;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
 }
 
 .repo-creation-date {

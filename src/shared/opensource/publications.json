@@ -2,33 +2,9 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      "name": "Artificial Intelligence Paper",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "description": "Paper Written on Artificial Intelligence published in xyz "
+      "name": "Quantum computing",
+      "createdAt": "2021-07",
+      "description": "Paper Written on Quantum Computing published in ResearchGate: DOI:10.13140/RG.2.2.11481.44643"
     }
   ]
 }
