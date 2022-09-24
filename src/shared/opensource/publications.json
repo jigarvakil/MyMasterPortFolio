@@ -4,7 +4,15 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Quantum computing",
       "createdAt": "2021-07",
-      "description": "Paper Written on Quantum Computing published in ResearchGate: DOI:10.13140/RG.2.2.11481.44643"
+      "description": "Paper Written on Quantum Computing published in ResearchGate: DOI:10.13140/RG.2.2.11481.44643",
+      "url": "https://www.researchgate.net/publication/352900326_Quantum_Computing"
+    },
+    {
+      "id": "IJSRSET229511=",
+      "name": "Cyber Attacks : Detection and Prevention",
+      "createdAt": "2022-09",
+      "description": "Original Research Written on Cyber Attacks : Detection and Prevention and published in IJSRSET - Volume 9 Issue 5: DOI: 10.32628/IJSRSET229511",
+      "url": "https://ijsrset.com/IJSRSET229511"
     }
   ]
 }
